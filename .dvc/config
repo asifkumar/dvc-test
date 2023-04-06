@@ -1,0 +1,4 @@
+[core]
+    remote = s3develop
+['remote "s3develop"']
+    url = s3://dvc-project-e/
